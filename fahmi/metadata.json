@@ -1,7 +1,0 @@
-{
-  "name": "Sistem Resit Rasmi BKGK",
-  "description": "Aplikasi penjanaan resit rasmi untuk Badan Kebajikan Guru dan Kakitangan (BKGK) sekolah di Malaysia dengan ciri PWA, PDF, dan eksport imej.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
